@@ -12,9 +12,6 @@ This repository contains the code for Dhruv Agrawat's portfolio website, showcas
 - [Contact](#contact)
 - [License](#license)
 
-##Demo
-
- [deployed project](#https://main--keen-pixie-88c476.netlify.app/)
 ## Introduction
 
 Dhruv Agrawat's portfolio website is a platform to demonstrate his skills and experiences as a software developer. It includes detailed information about his technical skills, professional background, education, personal projects, and positions of responsibility.
@@ -45,7 +42,7 @@ The portfolio website was developed using the following technologies:
 
 ## Installation
 
-As a user, you don't need to install anything to explore Dhruv Agrawat's portfolio website. Simply visit the live website hosted at [Dhruv Agrawat's Portfolio](https://dhruvagrawat-portfolio.com/) to view the content.
+As a user, you don't need to install anything to explore Dhruv Agrawat's portfolio website. Simply visit the live website hosted at [Dhruv Agrawat's Portfolio](https://main--keen-pixie-88c476.netlify.app/) to view the content.
 
 If you'd like to customize or modify the website for your own use:
 
